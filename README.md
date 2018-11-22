@@ -2,4 +2,4 @@
 
 Este é um arquivo de leitura do curso Git.
 
-Saiba mais em [willianjusten.com.br].
+Esta é uma linha nova.
